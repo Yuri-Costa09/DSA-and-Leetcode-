@@ -13,3 +13,5 @@ q.put(5)
 
 # Removes the first element of the queue
 print(q.get())
+
+# Implementation of a queue

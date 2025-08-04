@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/yuricosta/Documents/Programacao/DSA-and-Leetcode-/DSA/linked_lists",
+      "program": "/Users/yuricosta/Documents/Programacao/DSA-and-Leetcode-/DSA/linked_lists/build/Debug/outDebug"
+    }
+  ]
+}
